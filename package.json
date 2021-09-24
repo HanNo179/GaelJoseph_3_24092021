@@ -1,0 +1,10 @@
+{
+  "name": "gaeljoseph_3_24092021",
+  "version": "1.0.0",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:public/css/style.css"
+  },
+  "dependencies": {
+    "sass": "^1.42.1"
+  }
+}
